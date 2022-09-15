@@ -1,0 +1,11 @@
+.wrapper{
+  display: flex;
+}
+aside{
+  padding: 20px;
+  >a{
+    display: block;
+    margin-top: 10px;
+  }
+  min-width: 420px;
+}
